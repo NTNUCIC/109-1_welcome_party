@@ -1,0 +1,6 @@
+.reveal .slides section img {
+	max-height: 40rem;
+}
+.reveal .slides section .small{
+	height: 25rem;
+}
